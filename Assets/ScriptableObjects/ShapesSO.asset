@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 630abf74b6d25a541bc019f1db08d64e, type: 3}
+  m_Name: ShapesSO
+  m_EditorClassIdentifier: 
+  shapes:
+  - id: 1
+    prefab: {fileID: 311889470019148601, guid: dbc9d00c333b3c34d8242cd8af687968, type: 3}
+    probability: 0
+  - id: 2
+    prefab: {fileID: 311889470019148601, guid: eb1888ee889d8a04a91956f651970ae0, type: 3}
+    probability: 0
+  - id: 3
+    prefab: {fileID: 8817051127177370784, guid: c6109519fa69dc74f90632367386c25a, type: 3}
+    probability: 0
+  - id: 4
+    prefab: {fileID: 8817051127177370784, guid: 2526877d03c20144593b14d465a2c988, type: 3}
+    probability: 0
+  - id: 5
+    prefab: {fileID: 8454026767175246922, guid: 7a224f9c60302e9479f50211b26027e7, type: 3}
+    probability: 0
+  - id: 6
+    prefab: {fileID: 8454026767175246922, guid: ba958794edf04b942a9d551732b51531, type: 3}
+    probability: 0
+  - id: 7
+    prefab: {fileID: 1408369475959429951, guid: 83d94c8fa8939dd4c92d244976d69fb0, type: 3}
+    probability: 0
+  - id: 8
+    prefab: {fileID: 1408369475959429951, guid: 5667b986ba53c894d9e304c39f7877c4, type: 3}
+    probability: 0
+  - id: 9
+    prefab: {fileID: 8450507552898624747, guid: 5ae7a4071ee9fcf41a2364f5d60261ab, type: 3}
+    probability: 0
+  - id: 10
+    prefab: {fileID: 8450507552898624747, guid: b03f6f423d3467346b50977c8a6b00d5, type: 3}
+    probability: 0
+  - id: 11
+    prefab: {fileID: 311889470019148601, guid: 13b88865abb25e148adf0bb55349cac2, type: 3}
+    probability: 0
+  - id: 12
+    prefab: {fileID: 311889470019148601, guid: 7b816ebfc16d5bb40b14da794c48b811, type: 3}
+    probability: 0
+  - id: 13
+    prefab: {fileID: 8817051127177370784, guid: b4af50bd133549b4487d3f5d41edb9a6, type: 3}
+    probability: 0
+  - id: 14
+    prefab: {fileID: 8817051127177370784, guid: 22cf308a10ef79a4ca350b2787aa6153, type: 3}
+    probability: 0
+  - id: 15
+    prefab: {fileID: 8454026767175246922, guid: 68d5102918e749244bd3da90984018ad, type: 3}
+    probability: 0
+  - id: 16
+    prefab: {fileID: 8454026767175246922, guid: a2cb02eb5dd8db6419677aed6fe939cc, type: 3}
+    probability: 0
+  - id: 17
+    prefab: {fileID: 1408369475959429951, guid: d03af3c4bc164b64f989079d251a4df7, type: 3}
+    probability: 0
+  - id: 18
+    prefab: {fileID: 1408369475959429951, guid: ad1ea48ecea3b9d4e84379e2cd28d89a, type: 3}
+    probability: 0
+  - id: 19
+    prefab: {fileID: 8450507552898624747, guid: a6b759892dc3a5546a56828c7988805c, type: 3}
+    probability: 0
+  - id: 20
+    prefab: {fileID: 8450507552898624747, guid: bbb335abaaa3cca4398484ad7fa841a2, type: 3}
+    probability: 0
